@@ -1,0 +1,3 @@
+onChange={(e)=> setPasswd(e.target.value)}
+
+style={{display: "none"}}
